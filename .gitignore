@@ -1,0 +1,12 @@
+build
+target
+out
+
+*.ipr
+*.iws
+*.iml
+*.idea
+*.ids
+
+.ideaDataSources
+.gradle
